@@ -1,0 +1,41 @@
+# COOKING INDOMIE PROCESS IN PSEUDOCODE
+
+## Variable
+
+fn = "fried noodle"
+n = "cooked noodle"
+sns = "seasoning"
+wtr = "water"
+fo = "fried onion"
+cp = "cooking pot"
+p = "plate"
+
+## Operations
+- Heating
+- Cooking
+- Stirring
+- Serving
+- Append
+
+Start
+
+cp = [ ]
+cp.Append(wtr)
+cp.Append(fn)
+
+print(cp)
+#result
+
+cp = ["wtr", "fn]
+n = cp.Heating().Cooking().stirring()
+
+p = [ ]
+p.Append(n)
+p.Append(sns)
+p.Append(fo)
+
+print(p)
+p = ["n", "sns", "fo"]
+p.Stiring() ---> to mixed between noodle, seasoning and onion
+p.Serving()
+End

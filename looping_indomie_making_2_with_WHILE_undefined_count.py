@@ -7,7 +7,7 @@ Semua Sintaksis tentang
 
 #Branching
 
-cabe = 10
+cabe = 12
 cabe_yang_dimasukkan_tidak_busuk = 0
 
 
